@@ -55,3 +55,14 @@ Casino 11 -
 Table 4 has a different sticky number each day of the week
 Training Dataset URL: https://raw.githubusercontent.com/shubhamgoyal/Broken-Roulette-Public/master/casino_11_training.csv
 Public Test Dataset URL: https://raw.githubusercontent.com/shubhamgoyal/Broken-Roulette-Public/master/casino_11_test_public.csv
+
+Casino 12 -
+Table 6 has sticky 19 to 36
+Training Dataset URL: https://raw.githubusercontent.com/shubhamgoyal/Broken-Roulette-Public/master/casino_12_training.csv
+Public Test Dataset URL: https://raw.githubusercontent.com/shubhamgoyal/Broken-Roulette-Public/master/casino_12_test_public.csv
+
+Casino 13 -
+Sticky multiples of 3 (excluding 0). There are also called 3rd column
+Training Dataset URL: https://raw.githubusercontent.com/shubhamgoyal/Broken-Roulette-Public/master/casino_13_training.csv
+Public Test Dataset URL: https://raw.githubusercontent.com/shubhamgoyal/Broken-Roulette-Public/master/casino_13_test_public.csv
+
